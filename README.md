@@ -13,8 +13,7 @@ to swipe through images like swiping through polaroid cameras on a table
 
 ![Screenshot](https://github.com/msimbao/bible_lda_visualizer/blob/master/screen.gif)
 
-![Screenshot](https://github.com/msimbao/bible_lda_visualizer/blob/master/Screen1.png)
-![Screenshot](https://github.com/msimbao/bible_lda_visualizer/blob/master/Screen2.png)
+
 
 *Things I Learnt*
 
@@ -43,6 +42,8 @@ What things you need to install the software and how to install them
 * Beautiful Soup 4
 
 ### Installing
+
+![Screenshot](https://github.com/msimbao/bible_lda_visualizer/blob/master/Screen2.png)
 
 To install the prerequisites, you can go to their project pages to install them properly. The basic installation that I use is simply:
 
