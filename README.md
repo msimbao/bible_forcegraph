@@ -1,12 +1,14 @@
-##NLP Machine Learning Bible Visualizer
+(note - still rewriting readme)
 
-*Problem:*
+## NLP Machine Learning Bible Visualizer
+
+**Problem:**
 Religious texts tend to be very cryptic and often need good vizualizations to aid the reader. Have good visuals aids with improving the readers memory as well as helping readers (such as children) understand the passages better
 
-*Solution:*
+**Solution:**
 Use Machine Learning to find topic words in bible passages and visualize the passage using pictures instead.
 
-*Implementation:*
+**Implementation:**
 Used LDA to data mine bible passages to train a model on the entire book of Revelations then use the model to predict important topic words in new
 passages similar to passages in revelation (or from revelation itself) then visualize these images using an image gallery that allows users
 to swipe through images like swiping through polaroid cameras on a table
@@ -15,13 +17,13 @@ to swipe through images like swiping through polaroid cameras on a table
 
 
 
-*Things I Learnt*
+**Things I Learnt**
 
 *Web Scrapping
 *Probabilistic Models
 *NLP and Text Mining
 
-*Getting Started*
+**Getting Started**
 
 ###What is LDA?
 Latent Dirichlet Allocation (LDA) is a “generative probabilistic model” of a collection of composites made up of parts. Its uses include Natural Language Processing (NLP) and topic modelling, among others.
