@@ -11,8 +11,10 @@ Used LDA to data mine bible passages to train a model on the entire book of Reve
 passages similar to passages in revelation (or from revelation itself) then visualize these images using an image gallery that allows users
 to swipe through images like swiping through polaroid cameras on a table
 
-![Screenshot](https://github.com/msimbao/soundscapes/blob/master/screen1.png)
-![Screenshot](https://github.com/msimbao/soundscapes/blob/master/screen5.png)
+![Screenshot](https://github.com/msimbao/bible_lda_visualizer/blob/master/screen.gif)
+
+![Screenshot](https://github.com/msimbao/bible_lda_visualizer/blob/master/Screen1.png)
+![Screenshot](https://github.com/msimbao/bible_lda_visualizer/blob/master/Screen2.png)
 
 *Things I Learnt*
 
